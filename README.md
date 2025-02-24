@@ -1,5 +1,5 @@
 # 👋 Welcome!
-💻 Computer Science Major & Backend Developer Enthusiast
+💻 Computer Science Major & Junior Backend Developer
 
  🔹 Interested in: Java, Spring, Database, System Architecture
 
