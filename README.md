@@ -6,11 +6,14 @@
 🔹 Currently Learning: Spring Boot, JPA, Redis
 
 🔹 Certificates:
-🏅 정보처리기사 
-🏅 SQLD 
-🏅 CSTS 
-📫 Contact: [이메일 or SNS 링크]
 
+🏅 정보처리기사 
+
+🏅 SQLD 
+
+🏅 CSTS 
+
+📫 Contact: gjyj5395@naver.com
 
 <!--
 **Gongjjin/Gongjjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
