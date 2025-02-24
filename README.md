@@ -1,11 +1,11 @@
-## 👋 Welcome!
+# 👋 Welcome!
 💻 Computer Science Major & Backend Developer Enthusiast
 
-🔹 Interested in: Java, Spring, Database, System Architecture
+## 🔹 Interested in: Java, Spring, Database, System Architecture
 
-🔹 Currently Learning: Spring Boot, JPA, Redis
+## 🔹 Currently Learning: Spring Boot, JPA, Redis
 
-🔹 Certificates:
+## 🔹 Certificates
 
 🏅 정보처리기사 
 
