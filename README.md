@@ -8,9 +8,7 @@
  🔹 Certificates
 
 🏅 정보처리기사 
-
 🏅 SQLD 
-
 🏅 CSTS 
 
 📫 Contact: gjyj5395@naver.com
