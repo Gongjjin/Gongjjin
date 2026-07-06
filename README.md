@@ -9,6 +9,7 @@
 ## 🌟 About Me
 * 💻 **Major:** Computer Science
 
+<br />
 
 ## 🛠️ Tech Stacks
 
@@ -18,6 +19,7 @@
 ### 💾 Database & Infra
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 
+<br />
 
 ## 🏅 Certificates
 * 🛡️ **정보처리기사** 
